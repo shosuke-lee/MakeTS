@@ -1,0 +1,33 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual env
+.venv/
+venv/
+env/
+
+# Build output
+build/
+dist/
+*.spec
+
+# Local files
+*.log
+*.tmp
+config.local.json
+
+# External binaries
+exe_files/
+ffmpeg.exe
+ffprobe.exe
+tsp.exe
+
+# Media files
+*.ts
+*.mp4
+*.m2ts
+*.mov
+*.mkv
